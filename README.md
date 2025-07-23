@@ -25,9 +25,6 @@ SkillUp is a modern, responsive educational landing page website built with HTML
 
 - **HTML5**
 - **CSS3** (Flexbox & Media Queries)
-- **JavaScript (Vanilla)**
-- **Google Fonts**
-- **Material Icons**
-- **Font Awesome**
+- **JavaScript**
 
 
