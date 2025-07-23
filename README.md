@@ -2,6 +2,12 @@
 
 SkillUp is a modern, responsive educational landing page website built with HTML, CSS, and JavaScript. This project demonstrates a fully responsive user interface for an online course platform offering multiple features like pricing plans, testimonials, and more.
 
+## 🌐 Live Preview
+
+[🔗 Click here to view live](https://learnwithskillup.netlify.app/)
+
+---
+
 ## 📌 Features
 
 - 🎯 Clean and responsive layout
@@ -23,7 +29,5 @@ SkillUp is a modern, responsive educational landing page website built with HTML
 - **Google Fonts**
 - **Material Icons**
 - **Font Awesome**
-
----
 
 
